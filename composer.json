@@ -1,0 +1,16 @@
+{
+    "name": "omomohagiogu/my-vue-firebase-plugin",
+    "description": "A custom Wordpress plugin built with Vue.js and integrated with Firebase",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Omomohagiogu\\MyVueFirebasePlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omomoh Agiogu"
+        }
+    ],
+    "require": {}
+}
