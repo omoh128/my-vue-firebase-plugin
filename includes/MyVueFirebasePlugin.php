@@ -1,7 +1,7 @@
 <?php
 
 
-namespace MyVueFirebasePlugin;
+namespace MyVueFirebasePlugin\Includes;
 
 class MyVueFirebasePlugin {
     private static $instance;

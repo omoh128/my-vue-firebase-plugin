@@ -4,7 +4,8 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Omomohagiogu\\MyVueFirebasePlugin\\": "src/"
+            "MyVueFirebasePlugin\\": "",
+            "MyVueFirebasePlugin\\Includes\\": "Includes"
         }
     },
     "authors": [
